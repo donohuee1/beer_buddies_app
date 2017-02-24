@@ -12,12 +12,12 @@
 ![ERD](./app/assets/images/image_6.png)
 
 ####4. Wireframes
-![Wireframe 1](./assets/images/image_1.png)
+![Wireframe 1](./app/assets/images/image_1.png)
 
-![Wireframe 2](./assets/images/image_2.png)
+![Wireframe 2](./app/assets/images/image_2.png)
 
-![Wireframe 3](./assets/images/image_3.png)
+![Wireframe 3](./app/assets/images/image_3.png)
 
-![Wireframe 4](./assets/images/image_4.png)
+![Wireframe 4](./app/assets/images/image_4.png)
 
-![Wireframe 5](./assets/images/image_5.png)
+![Wireframe 5](./app/assets/images/image_5.png)
