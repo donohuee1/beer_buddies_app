@@ -9,7 +9,7 @@
 [Link to Trello] (https://trello.com/b/94HGeJtc/wdi-sm-43-project-2)
 
 ####3. ERD
-![ERD](./app/assets/images/image_6.png)
+![ERD](./app/assets/images/image_7.png)
 
 ####4. Wireframes
 ![Wireframe 1](./app/assets/images/image_1.png)
