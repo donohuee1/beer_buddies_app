@@ -1,24 +1,25 @@
-# README
+#Beer Buddies
+![beerbuddies](http://topwines.ro/wp-content/uploads/2016/04/o-BEER-CHEERS-facebook.jpg)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+####1. Project Description
+-An app where users can post a suggested hang out at a local bar on a certain date/time.
+-Other users can then reply with comments and/or RSVP for the meet up.
 
-Things you may want to cover:
+####2. User Stories
+[Link to Trello] (https://trello.com/b/94HGeJtc/wdi-sm-43-project-2)
 
-* Ruby version
+####3. ERD
+![Wireframe 2](./assets/number_2.png)
 
-* System dependencies
+![Wireframe 3](./assets/number_3.png)
 
-* Configuration
+####4. Wireframes
+![Wireframe 1](./assets/images/image_1.jpg)
 
-* Database creation
+![Wireframe 2](./assets/images/image_2.jpg)
 
-* Database initialization
+![Wireframe 3](./assets/images/image_3.jpg)
 
-* How to run the test suite
+![Wireframe 4](./assets/images/image_4.jpg)
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Wireframe 5](./assets/images/image_5.jpg)
