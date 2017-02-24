@@ -2,8 +2,7 @@
 ![beerbuddies](http://topwines.ro/wp-content/uploads/2016/04/o-BEER-CHEERS-facebook.jpg)
 
 ####1. Project Description
-  -An app where users can post a suggested hang out at a local bar on a certain date/time.
-  -Other users can then reply with comments and/or RSVP for the meet up.
+An app where users can post a suggested hang out at a local bar on a certain date/time.  Other users can then reply with comments and/or RSVP for the meet up.
 
 ####2. User Stories
 [Link to Trello] (https://trello.com/b/94HGeJtc/wdi-sm-43-project-2)
