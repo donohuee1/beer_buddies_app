@@ -9,17 +9,15 @@
 [Link to Trello] (https://trello.com/b/94HGeJtc/wdi-sm-43-project-2)
 
 ####3. ERD
-![Wireframe 2](./assets/number_2.png)
-
-![Wireframe 3](./assets/number_3.png)
+![ERD](./assets/images/image_1.png)
 
 ####4. Wireframes
-![Wireframe 1](./assets/images/image_1.jpg)
+![Wireframe 1](./assets/images/image_1.png)
 
-![Wireframe 2](./assets/images/image_2.jpg)
+![Wireframe 2](./assets/images/image_2.png)
 
-![Wireframe 3](./assets/images/image_3.jpg)
+![Wireframe 3](./assets/images/image_3.png)
 
-![Wireframe 4](./assets/images/image_4.jpg)
+![Wireframe 4](./assets/images/image_4.png)
 
-![Wireframe 5](./assets/images/image_5.jpg)
+![Wireframe 5](./assets/images/image_5.png)
