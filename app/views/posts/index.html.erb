@@ -1,0 +1,26 @@
+<h1>Today's Posts</h1>
+
+<ul>
+    <% @posts.each do |post| %>
+      <ul>
+        <li>
+            <%= post.contents %>
+        </li>
+        <li>
+            <%= post.date %>
+        </li>
+        <li>
+          <%= post.user_id %>
+        </li>
+        <li>
+          <%= post.user_name %>
+        </li>
+        <li>
+          <%= post.beer_name %>
+        </li>
+        <li>
+          <%= post.time %>
+        </li>
+      </ul>
+    <% end %>
+</ul>
